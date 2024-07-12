@@ -63,6 +63,14 @@ Welcome to the Airbnb Clone app! This project is a clone of the popular Airbnb a
    npm run android
    ```
 
+## Screenshots
+![1](https://github.com/user-attachments/assets/fe43109b-eac8-4586-ba66-e457c2978a14)
+![2](https://github.com/user-attachments/assets/706f7cc3-df1c-4425-b81d-39c2ecf67187)
+![3](https://github.com/user-attachments/assets/7ef42c52-5144-4c1c-9c34-2178cae6f231)
+![4](https://github.com/user-attachments/assets/359827f9-dc11-4cf1-8449-ab17f078be0d)
+![5](https://github.com/user-attachments/assets/1c910041-5c67-4d18-8e33-d2bee9ffcbe8)
+
+
 ## Contributing
 
 Contributions are welcome! Please fork this repository and submit a pull request with your changes. Ensure your code follows the project's coding standards and includes relevant tests.
